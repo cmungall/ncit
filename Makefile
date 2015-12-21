@@ -12,7 +12,10 @@ Thesaurus.obo: xThesaurus.obo
 	#perl -npe 's@http://purl.obolibrary.org/obo/ncit_@ncithesaurus:@g' $< > $@
 
 ncit_anatomy.obo: Thesaurus.obo
-	blip ontol-query -i $<  -query "(subclassRT(ID,'ncithesaurus:C12219');subclassRT(ID,'ncithesaurus:C22188'))" -to obo > $@.tmp && ./downcase.pl $@.tmp > $@
+	blip ontol-query -i $<  -query "(subclassRT(ID,'NCIT:C12219');subclassRT(ID,'NCIT:C22188');subclassRT(ID,'NCIT:C70699'))" -to obo > $@.tmp && ./downcase.pl $@.tmp > $@
+
+ncit_exposure.obo: Thesaurus.obo
+	blip ontol-query -i $<  -query "(subclassRT(ID,'NCIT:C17941'))" -to obo > $@.tmp && ./downcase.pl $@.tmp > $@
 
 ncit_disease.obo: Thesaurus.obo
 	blip ontol-query -i $<  -query "(subclassRT(ID,'ncithesaurus:Diseases_Disorders_and_Findings'))" -to obo > $@.tmp && ./downcase.pl $@.tmp > $@
