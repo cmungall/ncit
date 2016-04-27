@@ -1,0 +1,399 @@
+MPATH:0 ! pathological entity
+MPATH:1 ! cell and tissue damage
+MPATH:100 ! placental abnormality
+MPATH:101 ! glycogen cell defect
+MPATH:102 ! labyrinth zone defect
+MPATH:103 ! placental vascular defect
+MPATH:104 ! spongiotrophoblast defect
+MPATH:105 ! circulatory disorder
+MPATH:106 ! fluid accumulation
+MPATH:11 ! hemorrhagic necrosis
+MPATH:113 ! atrial embolism
+MPATH:114 ! bone marrow embolism
+MPATH:115 ! fat embolism
+MPATH:117 ! skin embolism
+MPATH:118 ! systemic embolism
+MPATH:119 ! hemorrhage and non-specified extravasation
+MPATH:12 ! liquefactive necrosis
+MPATH:126 ! growth and differentiation defect
+MPATH:13 ! piecemeal necrosis
+MPATH:135 ! epithelial and stromal hyperplasia
+MPATH:137 ! fibroglandular hyperplasia
+MPATH:139 ! goblet cell hyperplasia
+MPATH:14 ! process of degenerative change
+MPATH:141 ! inflammatory polyp
+MPATH:143 ! microglandular hyperplasia
+MPATH:144 ! myoepithelial hyperplasia
+MPATH:145 ! fat cell hyperplasia
+MPATH:15 ! general degenerative process
+MPATH:153 ! hypergranulosis
+MPATH:16 ! myxoid/myxomatous degeneration
+MPATH:17 ! subcellular defect
+MPATH:170 ! oncocytic metaplasia
+MPATH:172 ! transitional cell metaplasia
+MPATH:173 ! myeloid metaplasia
+MPATH:175 ! healing and repair process
+MPATH:176 ! connective tissue replacement
+MPATH:177 ! angiogenesis
+MPATH:178 ! extracellular matrix deposition
+MPATH:179 ! fibrin deposition
+MPATH:18 ! cytoskeletal defect
+MPATH:180 ! fibroblast proliferation
+MPATH:185 ! parenchymal regeneration
+MPATH:186 ! complete parenchymal regeneration
+MPATH:187 ! incomplete parenchymal regeneration
+MPATH:188 ! immunopathological process
+MPATH:189 ! hypersensitivity disease
+MPATH:19 ! endoplasmic reticulum defect
+MPATH:194 ! immune mediated disease
+MPATH:198 ! immune mediated hemolytic anaemia
+MPATH:199 ! immune mediated thrombocytopenia
+MPATH:20 ! golgi defect
+MPATH:202 ! immunodeficiency disease
+MPATH:206 ! primary immunodeficiency disease
+MPATH:207 ! immunodeficiency - lymphoid defect
+MPATH:208 ! immunodeficiency - myeloid/phagocytic defect
+MPATH:209 ! secondary immunodeficiency disease
+MPATH:21 ! lysosomal defect
+MPATH:210 ! acquired immunodeficiency
+MPATH:211 ! failed transfer of maternal immunoglobulin
+MPATH:213 ! acute inflammation
+MPATH:214 ! chronic inflammation
+MPATH:215 ! granulomatous inflammation
+MPATH:216 ! necrotic inflammation
+MPATH:219 ! adnexal and skin appendage tumor
+MPATH:22 ! mitochondrial defect
+MPATH:220 ! apocrine adenocarcinoma
+MPATH:225 ! eccrine gland adenocarcinoma
+MPATH:226 ! eccrine gland adenoma
+MPATH:23 ! peroxysomal defect
+MPATH:24 ! plasma membrane defect
+MPATH:25 ! tissue specific degenerative process
+MPATH:254 ! complex tumor
+MPATH:261 ! nephroblastoma
+MPATH:267 ! glandular tumor
+MPATH:27 ! arthrosis
+MPATH:280 ! Harderian gland adenoma
+MPATH:281 ! Harderian gland carcinoma
+MPATH:294 ! myoepithelioma
+MPATH:299 ! pinealoma
+MPATH:308 ! thyroid C-cell carcinoma
+MPATH:309 ! gonadal tumor
+MPATH:31 ! emphysema
+MPATH:318 ! classical seminoma
+MPATH:321 ! teratocarcinoma
+MPATH:323 ! gonadal somatic cell tumor
+MPATH:33 ! intracellular and extracellular accumulation
+MPATH:330 ! ovarian stromal tumor
+MPATH:332 ! sertoli-leydig cell tumor
+MPATH:335 ! hematopoietic/lymphoid malignancies/disorder
+MPATH:337 ! erythroid leukaemia
+MPATH:340 ! megakaryocytic leukaemia
+MPATH:341 ! myelodysplastic disorder
+MPATH:342 ! myeloid leukaemia
+MPATH:346 ! autoimmune mediated disease
+MPATH:35 ! bile deposition
+MPATH:352 ! hepatic tumor
+MPATH:355 ! cholangiofibroma
+MPATH:358 ! melanocytic tumor
+MPATH:36 ! calcium deposition
+MPATH:361 ! naevus
+MPATH:362 ! mesonephroma
+MPATH:37 ! ceroid deposition
+MPATH:370 ! primitive neurectodermal tumor
+MPATH:373 ! CNS progenitor tumor
+MPATH:377 ! pheochromocytoma
+MPATH:38 ! copper deposition
+MPATH:382 ! cementifying fibroma
+MPATH:384 ! cementoma
+MPATH:388 ! osseous and chondromatous tumor
+MPATH:39 ! glycogen deposition
+MPATH:395 ! osteofibroma
+MPATH:398 ! paragangliomas and glomus tumor
+MPATH:4 ! necrosis
+MPATH:40 ! hyalinosis
+MPATH:406 ! dermatofibrosarcoma
+MPATH:41 ! iron deposition
+MPATH:42 ! lipid deposition
+MPATH:424 ! intravascular leiomyomatosis
+MPATH:429 ! myxomatous tumor
+MPATH:43 ! lipofuscin deposition
+MPATH:439 ! synovial-like tumor
+MPATH:44 ! melanin deposition
+MPATH:443 ! inverted squamous papilloma
+MPATH:45 ! protein deposition
+MPATH:457 ! placental site trophoblastic tumor
+MPATH:46 ! uric acid deposition
+MPATH:460 ! nuclear defect
+MPATH:461 ! cataract; capsular-epithelial
+MPATH:462 ! cataract; nuclear and cortical
+MPATH:463 ! cataract; cortical liquefactive
+MPATH:464 ! cataract; lens extrusion
+MPATH:465 ! glaucoma developmental
+MPATH:469 ! symmetry defect
+MPATH:47 ! intracellular and extracellular depletion
+MPATH:470 ! left/right axis defect
+MPATH:471 ! anterior/posterior axis defect
+MPATH:472 ! Dorsal/ventral axis defect
+MPATH:473 ! developmental cystic dysplasia
+MPATH:475 ! ductal ectasia
+MPATH:478 ! angiogenesis defect
+MPATH:479 ! vasculogenesis defect
+MPATH:480 ! decidual defect
+MPATH:482 ! focal hyperplasia
+MPATH:484 ! hyperplastic nodule
+MPATH:489 ! stomach, oesophagus and pancreatic intra-epithelial neoplasia
+MPATH:492 ! membraneous glomerulonephritis
+MPATH:493 ! membraneoproliferative glomerulonephritis
+MPATH:494 ! autoimmune glomerulonephritis
+MPATH:496 ! Non-Lymphoid leukaemias
+MPATH:497 ! myeloid leukaemia without maturation
+MPATH:498 ! myeloid leukaemia with maturation
+MPATH:5 ! bridging necrosis
+MPATH:50 ! glycogen depletion
+MPATH:500 ! myeloproliferative disease-like myeloid leukaemia
+MPATH:501 ! myelomonocytic leukaemia
+MPATH:502 ! monocytic leukaemia
+MPATH:503 ! biphenotypic leukaemia
+MPATH:51 ! hypocalcification
+MPATH:515 ! Non-Lymphoid neoplasias
+MPATH:52 ! lipid depletion
+MPATH:526 ! diffuse large B-cell lymphoma, histiocyte associated
+MPATH:531 ! B-natural killer cell lymphoma
+MPATH:540 ! T cell neoplasms character undetermined
+MPATH:541 ! T large cell anaplastic lymphoma
+MPATH:542 ! T natural killer cell lymphoma
+MPATH:543 ! cholangioma
+MPATH:547 ! mucous secretions
+MPATH:55 ! developmental and structural abnormality
+MPATH:554 ! dystrophy
+MPATH:555 ! mineralisation
+MPATH:556 ! potentially cancerous lesions
+MPATH:558 ! adenomyoepithelioma
+MPATH:56 ! developmental or adult structural  defect
+MPATH:560 ! cribriform adenocarcinoma
+MPATH:562 ! torsion
+MPATH:565 ! tumors of neurepithelial tissue
+MPATH:574 ! nephroblastomatosis
+MPATH:58 ! aplasia
+MPATH:581 ! desmoplasia
+MPATH:582 ! cicatricial alopecia
+MPATH:583 ! scarring alopecia
+MPATH:585 ! acidophilic macrophage pneumonia
+MPATH:587 ! Cribriform epididymal hyperplasia
+MPATH:59 ! defective branching morphogenesis
+MPATH:591 ! fatty infiltration
+MPATH:594 ! cystic hyperplasia
+MPATH:595 ! extramedullary hemopoiesis
+MPATH:597 ! cell and tissue damage process
+MPATH:599 ! developmental process abnormalities
+MPATH:6 ! caseous necrosis
+MPATH:60 ! communication defect
+MPATH:600 ! branching defect
+MPATH:601 ! developmental hypertrophy
+MPATH:602 ! hyperplastic tissue
+MPATH:603 ! pathological anatomical entity
+MPATH:604 ! defective growth and differentiation process
+MPATH:605 ! metaplastic tissue
+MPATH:606 ! neoplasia
+MPATH:607 ! healing and repair structure
+MPATH:61 ! curvature defect
+MPATH:610 ! angiectasia
+MPATH:614 ! concretion
+MPATH:618 ! myeloid hyperplasia
+MPATH:619 ! truncoconal septal defect
+MPATH:620 ! inter-atrial septal defect
+MPATH:621 ! inter-ventricular septal defect
+MPATH:623 ! synechia
+MPATH:624 ! involution
+MPATH:625 ! avulsion
+MPATH:627 ! pyogranulomatous inflammation
+MPATH:63 ! depletion
+MPATH:631 ! hypertrophic tissue
+MPATH:632 ! Hepatocytomegaly
+MPATH:633 ! cholelithiasis
+MPATH:636 ! steatitis
+MPATH:637 ! bursal cyst
+MPATH:64 ! developmental dysplasia
+MPATH:640 ! osteoid deposition
+MPATH:643 ! serous exudate
+MPATH:644 ! crystalloid formation
+MPATH:645 ! epicarditis
+MPATH:646 ! chondroarthritis
+MPATH:648 ! interstitial pancreatitis
+MPATH:650 ! proliferative dermatitis
+MPATH:651 ! ventral glossitis
+MPATH:655 ! lingual adenitis
+MPATH:658 ! foreign body rhinitis
+MPATH:659 ! foreign body dermatitis
+MPATH:661 ! foreign body gastritis
+MPATH:662 ! foreign body glossitis
+MPATH:664 ! granulomatous peritonitis
+MPATH:665 ! foreign body granulomatous peritonitis
+MPATH:667 ! foreign body periodontitis
+MPATH:669 ! foreign body tracheitis
+MPATH:67 ! displacement and deformity
+MPATH:670 ! granulomatous epicarditis
+MPATH:673 ! metritis
+MPATH:678 ! septic nephritis
+MPATH:679 ! urocystitis
+MPATH:680 ! septic urocystitis
+MPATH:683 ! degenerative arthritis
+MPATH:685 ! accessory organ
+MPATH:687 ! autoamputation
+MPATH:691 ! pustule
+MPATH:692 ! ulcerative blepharitis
+MPATH:694 ! acidophilic anterior pituitary gland adenoma
+MPATH:696 ! spindle cell hyperplasia
+MPATH:697 ! alopecia areata
+MPATH:699 ! ankylosing exostosis
+MPATH:701 ! developmental aspermia
+MPATH:702 ! acquired aspermia
+MPATH:703 ! developmental hypoplasia
+MPATH:705 ! acinar atrophy
+MPATH:706 ! cryptorchidism
+MPATH:708 ! pyelectasia
+MPATH:71 ! fusion process defect
+MPATH:711 ! situs ambiguus
+MPATH:713 ! situs ambiguus totalis
+MPATH:714 ! situs inversus with levocardia
+MPATH:717 ! sequestrum
+MPATH:718 ! pre-sacral teratoma
+MPATH:719 ! bronchiectasia
+MPATH:725 ! chronic interstitial nephritis
+MPATH:727 ! hepatic hemosiderosis
+MPATH:728 ! pulmonary hemosiderosis
+MPATH:729 ! splenic melanosis
+MPATH:73 ! growth arrest
+MPATH:730 ! renal tubular concretion
+MPATH:731 ! Leydig cell hyperplasia
+MPATH:732 ! tracheal gland ectasia
+MPATH:733 ! mucometra
+MPATH:734 ! acute blepharitis
+MPATH:735 ! molar hypercementosis
+MPATH:736 ! ovarian follicular cyst
+MPATH:738 ! uterine cystic endometrial hyperplasia
+MPATH:739 ! sub-retinal hemorrhage
+MPATH:740 ! drusen
+MPATH:742 ! intervertebral disk prolapse
+MPATH:743 ! hepatic centrolobular fatty metamorphosis
+MPATH:744 ! pigmentary incontinence
+MPATH:745 ! zenker's necrosis
+MPATH:746 ! cartilagenous erosion
+MPATH:747 ! renal tubular amyloidosis
+MPATH:748 ! recanalised thrombus
+MPATH:749 ! focal pulmonary fibrosis
+MPATH:751 ! pigment dispersion
+MPATH:752 ! barbered
+MPATH:753 ! gastric forestomach papillomatous hyperplasia
+MPATH:754 ! splenic hemosiderosis
+MPATH:755 ! pulmonary interstitial mineralisation
+MPATH:757 ! interstitial mineralization
+MPATH:758 ! renal interstitial mineralisation
+MPATH:759 ! pseudocyesis
+MPATH:760 ! ovarian bursal cyst
+MPATH:761 ! muscle regeneration
+MPATH:762 ! thyroid follicle pleomorphism
+MPATH:763 ! sialocele
+MPATH:765 ! fracture and healing
+MPATH:766 ! intestinal amyloidosis
+MPATH:768 ! septic necrosis
+MPATH:769 ! uterine septic necrosis
+MPATH:77 ! homoeotic change
+MPATH:770 ! abnormal organ size
+MPATH:771 ! abnormal organ length
+MPATH:772 ! abnormal organ mass
+MPATH:773 ! abnormal intestine length
+MPATH:774 ! focal hepatic coagulative necrosis
+MPATH:776 ! spermatocoele
+MPATH:777 ! urelithiasis
+MPATH:778 ! <new term>
+MPATH:779 ! uretolithiasis
+MPATH:78 ! incomplete closure
+MPATH:782 ! phthisis bulbi
+MPATH:783 ! B6 dermatitis
+MPATH:784 ! follicular atresia
+MPATH:785 ! bone marrow granulopoiesis
+MPATH:786 ! inspissation
+MPATH:787 ! intervertebral disk prolapse ventral
+MPATH:789 ! trichogranuloma
+MPATH:79 ! malposition
+MPATH:790 ! bilateral retinal degeneration
+MPATH:791 ! cartilagenous embolism
+MPATH:792 ! lymph node reticuloendothelial cell hyperplasia
+MPATH:793 ! reactive splenomegaly
+MPATH:796 ! aspermia
+MPATH:797 ! spermatogenesis defect
+MPATH:798 ! hypospermia
+MPATH:80 ! obstruction and stenosis
+MPATH:800 ! intervertebral disk prolapse dorsal
+MPATH:801 ! intervertebral disks prolapsed dorsally and ventrally
+MPATH:803 ! trabecular bone thickening
+MPATH:807 ! hygroma
+MPATH:809 ! nuchal edema
+MPATH:810 ! follicular dystrophy
+MPATH:811 ! epicardial mineralization
+MPATH:813 ! epidermolysis bullosa lesions
+MPATH:814 ! focal hepatic lipidosis
+MPATH:818 ! focal pulmonary histiocytosis
+MPATH:819 ! focal renal pelvic mineralisation.
+MPATH:82 ! persistent embryonic structure
+MPATH:821 ! hypoplastic tissue
+MPATH:822 ! hypoplastic gut associated lymphoid tissue
+MPATH:823 ! myxofibroma
+MPATH:827 ! chronic dermatitis
+MPATH:828 ! focal dermatitis
+MPATH:83 ! septation defect
+MPATH:831 ! multifocal muscle regeneration
+MPATH:833 ! subacute inflammation
+MPATH:835 ! acute septic inflammation
+MPATH:836 ! dermal fibrosis
+MPATH:837 ! hepatic mid-zonal fatty metamorphosis
+MPATH:839 ! anaplastic hepatocellular carcinoma
+MPATH:840 ! granulomatous arthritis
+MPATH:841 ! anopthalmia
+MPATH:842 ! coccygeal hemivertebrae
+MPATH:843 ! stasis
+MPATH:844 ! biliary stasis
+MPATH:845 ! partial abortion
+MPATH:846 ! foreign body acute pododermatitis
+MPATH:848 ! effacing granuloma
+MPATH:849 ! anaplastic mammary adenocarcinoma
+MPATH:85 ! transdifferentiation
+MPATH:850 ! post-traumatic structural abnormality
+MPATH:851 ! auricular deformation
+MPATH:853 ! systemic plasmacytosis
+MPATH:854 ! cutaneous plasmacytosis
+MPATH:855 ! Splendore-Hoeppli phenomenon
+MPATH:856 ! bullous emphysema
+MPATH:857 ! multifocal bullous emphysema
+MPATH:859 ! botryomycosis
+MPATH:86 ! organ specific developmental defect
+MPATH:861 ! edematous cholecystitis
+MPATH:863 ! focal ulcerative dermatitis
+MPATH:865 ! foreign body acute papillomatous glossitis
+MPATH:866 ! gastric adenomatous hyperplasia
+MPATH:867 ! hepatic central vein perivascular fibrosis
+MPATH:868 ! uterine ectasia
+MPATH:869 ! intussception
+MPATH:87 ! germ cell defect
+MPATH:871 ! spinal structural defects
+MPATH:873 ! micropthalmia
+MPATH:875 ! cutaneous plasmacytosis
+MPATH:876 ! systemic plasmacytosis
+MPATH:878 ! foreign body aspiration pneumonia
+MPATH:880 ! foreign body gingivitis
+MPATH:881 ! reactive fibrosis
+MPATH:882 ! hepatic peri-ductal inflammation
+MPATH:884 ! histiocytic pneumonitis
+MPATH:886 ! pulmonary metastasis
+MPATH:887 ! lymphatic metastasis
+MPATH:888 ! onychogryphosis
+MPATH:89 ! cardiovascular developmental defect
+MPATH:92 ! cardiac defect
+MPATH:93 ! cardiac septation defect
+MPATH:94 ! valve defect
+MPATH:95 ! hypertrophic ventricle
+MPATH:96 ! hypoplastic ventricle
+MPATH:98 ! lymphangiectasis
+MPATH:99 ! varices
