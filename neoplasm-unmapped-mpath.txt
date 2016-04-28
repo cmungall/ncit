@@ -1,0 +1,72 @@
+MPATH:173 ! myeloid metaplasia
+MPATH:219 ! adnexal and skin appendage tumor
+MPATH:220 ! apocrine adenocarcinoma
+MPATH:225 ! eccrine gland adenocarcinoma
+MPATH:226 ! eccrine gland adenoma
+MPATH:237 ! angiokeratoma
+MPATH:254 ! complex tumor
+MPATH:258 ! mesodermal mixed tumor
+MPATH:267 ! glandular tumor
+MPATH:280 ! Harderian gland adenoma
+MPATH:281 ! Harderian gland carcinoma
+MPATH:308 ! thyroid C-cell carcinoma
+MPATH:309 ! gonadal tumor
+MPATH:318 ! classical seminoma
+MPATH:323 ! gonadal somatic cell tumor
+MPATH:330 ! ovarian stromal tumor
+MPATH:335 ! hematopoietic/lymphoid malignancies/disorder
+MPATH:337 ! erythroid leukaemia
+MPATH:340 ! megakaryocytic leukaemia
+MPATH:342 ! myeloid leukaemia
+MPATH:352 ! hepatic tumor
+MPATH:355 ! cholangiofibroma
+MPATH:358 ! melanocytic tumor
+MPATH:361 ! naevus
+MPATH:373 ! CNS progenitor tumor
+MPATH:387 ! odontoma
+MPATH:388 ! osseous and chondromatous tumor
+MPATH:395 ! osteofibroma
+MPATH:398 ! paragangliomas and glomus tumor
+MPATH:424 ! intravascular leiomyomatosis
+MPATH:429 ! myxomatous tumor
+MPATH:436 ! neurofibromatosis
+MPATH:439 ! synovial-like tumor
+MPATH:443 ! inverted squamous papilloma
+MPATH:457 ! placental site trophoblastic tumor
+MPATH:496 ! Non-Lymphoid leukaemias
+MPATH:497 ! myeloid leukaemia without maturation
+MPATH:498 ! myeloid leukaemia with maturation
+MPATH:500 ! myeloproliferative disease-like myeloid leukaemia
+MPATH:501 ! myelomonocytic leukaemia
+MPATH:502 ! monocytic leukaemia
+MPATH:503 ! biphenotypic leukaemia
+MPATH:504 ! non-lymphoid hematopoietic sarcomas
+MPATH:508 ! myeloid dysplasias
+MPATH:509 ! cytopenia with increased blasts
+MPATH:510 ! myeloid proliferations (non-reactive)
+MPATH:511 ! Myeloproliferation (genetic)
+MPATH:515 ! Non-Lymphoid neoplasias
+MPATH:517 ! precursor B cell neoplasms
+MPATH:526 ! diffuse large B-cell lymphoma, histiocyte associated
+MPATH:527 ! primary mediastinal (thymic) diffuse large B cell lymphoma
+MPATH:531 ! B-natural killer cell lymphoma
+MPATH:536 ! precursor T-cell neoplasms
+MPATH:539 ! small T-cell lymphoma
+MPATH:540 ! T cell neoplasms character undetermined
+MPATH:541 ! T large cell anaplastic lymphoma
+MPATH:542 ! T natural killer cell lymphoma
+MPATH:545 ! hepatocholangiocellular carcinoma
+MPATH:556 ! potentially cancerous lesions
+MPATH:558 ! adenomyoepithelioma
+MPATH:560 ! cribriform adenocarcinoma
+MPATH:565 ! tumors of neurepithelial tissue
+MPATH:575 ! basaloid follicular neoplasms
+MPATH:595 ! extramedullary hemopoiesis
+MPATH:617 ! focus of cellular alteration
+MPATH:618 ! myeloid hyperplasia
+MPATH:694 ! acidophilic anterior pituitary gland adenoma
+MPATH:718 ! pre-sacral teratoma
+MPATH:839 ! anaplastic hepatocellular carcinoma
+MPATH:849 ! anaplastic mammary adenocarcinoma
+MPATH:886 ! pulmonary metastasis
+MPATH:887 ! lymphatic metastasis
